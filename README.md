@@ -1,0 +1,8 @@
+# Spring-Boot-Student-Registration![1](https://user-images.githubusercontent.com/102326058/193983452-d91cf770-2662-4b13-8b22-3b9a6f86b78f.png)
+![2](https://user-images.githubusercontent.com/102326058/193983456-d1978d84-59f6-4e3c-aee1-f0fc03dce074.png)
+![3](https://user-images.githubusercontent.com/102326058/193983459-18cc0e4e-d701-4f16-b28c-80e0cf3ef051.png)
+![4](https://user-images.githubusercontent.com/102326058/193983461-6b7e4407-bb06-48a6-a199-6c57f92cbe30.png)
+![5](https://user-images.githubusercontent.com/102326058/193983463-8bfb251d-6f47-4529-b9d4-8d1348c49c46.png)
+![6](https://user-images.githubusercontent.com/102326058/193983465-1f85cdb5-bd3e-463f-84e2-ae988f87543a.png)
+![7](https://user-images.githubusercontent.com/102326058/193983467-ee37ad62-74ac-4588-973b-64e8a22df54a.png)
+![8](https://user-images.githubusercontent.com/102326058/193983468-dfc9bc1b-8b6d-4563-8ee5-e59d29a23f2d.png)
