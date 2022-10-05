@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to My Application</title>
+    <link rel="stylesheet" type="text/css">
+
+    <style>
+        h1{
+            font-family: "Times New Roman";
+            font-size: 50px;
+            color: white;
+            position: absolute;
+            top: 25%;
+            left:35%;
+        }
+
+        a{
+            font-family: "Times New Roman";
+            font-size: 25px;
+            color: red;
+            position: absolute;
+            top: 40%;
+        }
+
+        .circle {
+            display: block;
+            background: #ffffff;
+            border-radius: 50%;
+            height: 100px;
+            width: 100px;
+            margin: 0;
+            background: radial-gradient(circle at 25px 25px, #fcfcfc, #030000);
+            position: absolute;
+            left: 30%;
+            top: 50%;
+        }
+
+        .circle1 {
+            display: block;
+            background: #ffffff;
+            border-radius: 50%;
+            height: 150px;
+            width: 150px;
+            margin: 0;
+            background: radial-gradient(circle at 25px 25px, #2343c5, #030000);
+            position: absolute;
+            left: 10%;
+            top: 70%;
+        }
+
+        .circle2 {
+            display: block;
+            background: #ffffff;
+            border-radius: 50%;
+            height: 50px;
+            width: 50px;
+            margin: 0;
+            background: radial-gradient(circle at 25px 25px, #f1cf31, #030000);
+            position: absolute;
+            left: 53%;
+            top: 45%;
+        }
+
+        .circle3 {
+            display: block;
+            background: #ffffff;
+            border-radius: 50%;
+            height: 100px;
+            width: 100px;
+            margin: 0;
+            background: radial-gradient(circle at 25px 25px, #fcfcfc, #030000);
+            position: absolute;
+            left: 70%;
+            top: 50%;
+        }
+
+        .circle4 {
+            display: block;
+            background: #ffffff;
+            border-radius: 50%;
+            height: 150px;
+            width: 150px;
+            margin: 0;
+            background: radial-gradient(circle at 25px 25px, #2343c5, #030000);
+            position: absolute;
+            left: 90%;
+            top: 70%;
+        }
+
+        .circle5 {
+            display: block;
+            background: #ffffff;
+            border-radius: 50%;
+            height: 200px;
+            width: 200px;
+            margin: 0;
+            background: radial-gradient(circle at 25px 25px, #f80202, #030000);
+            position: absolute;
+            left: 48%;
+            top: 70%;
+        }
+
+
+
+        body{
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+<div class="circle"></div>
+<div class="circle1"></div>
+<div class="circle2"></div>
+<div class="circle3"></div>
+<div class="circle4"></div>
+<div class="circle5"></div>
+
+<div align="center">
+<h1>Welcome to My Application !!</h1>
+<a class="h2" th:href="@{/users}"> Manage Users</a>
+</div>
+</div>
+</body>
+</html>
